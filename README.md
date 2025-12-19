@@ -42,6 +42,18 @@
 - Git & GitHub
 - VS Code
 - Postman
+### ⚙️ Tech Stack Badges
+
+![Python](https://img.shields.io/badge/Python-ML%20Ready-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Enabled-red)
+![NumPy](https://img.shields.io/badge/NumPy-Data%20Science-lightblue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow)
+![IoT](https://img.shields.io/badge/IoT-Smart%20Systems-brightgreen)
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-black)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
 
 ---
 
