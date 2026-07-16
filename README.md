@@ -87,6 +87,6 @@ Two-part wearable system (chest + wrist) for health tracking and alerting.
 
 ##  Connect With Me
 - LinkedIn: *(https://www.linkedin.com/in/annamalai-ajay-8888a6283/)*
-- Portfolio:=> https://ajay-portfolio-st07.onrender.com/
+- Portfolio:=>https://annamalaiajay.github.io/Annamalai_ajay-portfolio
 
 Open to internships, research projects, and collaborative development  
